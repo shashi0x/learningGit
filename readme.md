@@ -1,2 +1,2 @@
-# Hello this is Git by A
+# This is me learning Git
 ### new change

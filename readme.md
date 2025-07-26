@@ -1,2 +1,2 @@
-# This is me learning Git by B
+# This is me learning Git
 ### new change
